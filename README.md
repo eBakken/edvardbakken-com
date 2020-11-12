@@ -1,29 +1,3 @@
 # edvardbakken.com
 
-## Project setup
-
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-
-```
-npm run build
-```
-
-### Lints and fixes files
-
-```
-npm run lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Deploy to Firebase Hosting on merge](https://github.com/eBakken/edvardbakken-com/workflows/Deploy%20to%20Firebase%20Hosting%20on%20merge/badge.svg)
