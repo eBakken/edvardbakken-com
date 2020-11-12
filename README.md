@@ -1,4 +1,4 @@
-# edvardbakken.coms
+# edvardbakken.com
 
 ## Project setup
 
