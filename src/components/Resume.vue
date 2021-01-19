@@ -1,6 +1,6 @@
 <template>
   <div class="w-full md:px-12">
-    <div class="text-5xl py-12 font-bold">Experience</div>
+    <div class="text-5xl py-12 font-bold font-serif">Experience</div>
     <ResumeCard
       title="Tipio"
       description="Creating a marketplace for group purchases"
@@ -36,7 +36,7 @@
       logo="/images/uio.png"
       role="Scientific assistant"
     />
-    <div class="text-5xl py-12 font-bold">Education</div>
+    <div class="text-5xl py-12 font-bold font-serif">Education</div>
     <ResumeCard
       title="UC Berkeley"
       description="Graduate level summer program in entrepreneurship"
